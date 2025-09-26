@@ -1,0 +1,8 @@
+Origin: FTMOBILE Repo
+Label: FTMOBILE
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Private Repo
